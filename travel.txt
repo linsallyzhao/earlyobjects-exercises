@@ -1,0 +1,13 @@
+You have travelled for 12 days.
+You left at 6.30 in the first day, and came back at 19.50 in the last day.
+                      Spent    Allowed
+         Flight     2000.00     2000.00
+    Car Renting      240.30      240.30
+    Private car      140.00      116.00
+        Parking      450.00      144.00
+           Taxi      250.45      250.45
+   Registration      500.00      500.00
+          hotel     1600.00     1080.00
+          Meals      648.00      528.00
+-------------------------------------------------------
+          Total     5828.75     4858.75

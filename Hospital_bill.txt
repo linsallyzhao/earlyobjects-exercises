@@ -1,0 +1,4 @@
+           Hospital Bill
+Name : lin   Patient Number : 123
+                Item   Charge
+ Archibald operation    498.27

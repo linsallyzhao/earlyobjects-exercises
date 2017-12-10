@@ -1,0 +1,12 @@
+Starting balance is $123.45
+Annual interest rate is 0.09
+begin_balence   deposite  withdraw  end_balance  interest_earned
+     123.45      20.30     14.20       129.55       0.95
+     129.55      45.00     35.22       139.33       1.01
+     139.33      45.00     78.89       105.44       0.92
+
+
+total deposite $       110.30
+total withdraw $       128.31
+total interest $         2.87
+final balance  $       105.44

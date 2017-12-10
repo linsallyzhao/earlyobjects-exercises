@@ -1,0 +1,4 @@
+You are an in-patient.
+You stayed 12 days in hospital, and the daily charge is $9.5. 
+Service fee is $300, and medication cost $450.65
+Your total charge is $864.65

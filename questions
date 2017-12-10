@@ -1,0 +1,27 @@
+Pstring_Modified.h
+
+overload.cpp
+
+std::string  std::cout   std::endl  WHY?
+
+Figure 12-4  a NULL is inserted, so what about the array part left? What about the
+memory?
+
+What's the difference between dedine a ifstream and define a fstream and open 
+it with ios::in?
+
+Is there a smarter way to know where is the last ten lines? q13_4.cpp
+
+q13_17.cpp
+
+14_11 stringStream how many to pass each time Line 63, 64
+
+16_7 said that to use swap you need to include algorithm, but in q15_1.cpp I 
+forgot to include that, and it seems still work
+
+q16_5.cpp typename and filed and type? What are those
+
+
+All the include .h .cpp stuff and 
+What is the tremendous eomplaxities of compiling and linking a multifile program
+that uses template?
